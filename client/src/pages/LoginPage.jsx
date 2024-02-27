@@ -2,7 +2,7 @@
 function LoginPage() {
   return (
     <div>
-      Login Page
+      Login Page.
     </div>
   )
 }
